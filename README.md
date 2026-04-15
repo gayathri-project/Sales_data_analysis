@@ -53,4 +53,18 @@ This project focuses on analyzing sales data using SQL to extract meaningful bus
 
 ---
 
-## 📁 Project Structure
+## 🚀 How to Run
+1. Import dataset into MySQL
+2. Create database: `sales_project`
+3. Run the SQL script (`sales_analysis.sql`)
+4. Analyze results using MySQL Workbench
+
+---
+
+## 🎯 Conclusion
+This project demonstrates the use of SQL for real-world data analysis, including data cleaning, aggregation, and business insight generation.
+
+---
+
+## 👩‍💻 Author
+**R. Gayathri**
